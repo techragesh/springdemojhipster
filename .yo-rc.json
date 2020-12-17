@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kodebyt.api"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "springdemojhipster",
+    "packageName": "com.kodebyt.api",
+    "packageFolder": "com/kodebyt/api",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGY4Y2QyMTVhZmZjYTM3N2E2YWM0NGVjYTQxMjYyYWRmZWNjYjJhMTU0MWExYzJhNWVmNTA3NTI4ZmI1MGE5ZjRhMzU5ZjQxMDVhY2ZiZWIwMWIzM2Y2OWFhNWRiMTgyMDI5MTJmM2ZmODc4ZTIwMmIwMDk3NmJmZTUxOTE1NTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1608212828877,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
